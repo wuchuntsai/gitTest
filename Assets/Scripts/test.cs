@@ -7,7 +7,8 @@ public class test : MonoBehaviour
   
     void Start()
     {
-        Debug.Log("test"); 
+        Debug.Log("test");
+        Debug.Log("First Test");
     }
 
     
